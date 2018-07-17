@@ -3,7 +3,7 @@ Testplan creation.
 priority severity defects combination list.
 agile concepts.
 manangement questions.
-hjkhkljlk
+hhhh
 sql query knowledge.
 sql theorical concepts.
 devops tols;:
